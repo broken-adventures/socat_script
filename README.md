@@ -7,6 +7,6 @@
 使用教程：  
 root账号运行以下命令  
 ```
-wget https://raw.githubusercontent.com/ycyw/socat_script/main/socat_script.sh && bash socat_script.sh  
+wget https://raw.githubusercontent.com/ycyw/socat_script/main/socat_script.sh && chmod +x socat_script.sh && ./socat_script.sh
 ```
 按要求输入本地服务器端口，要转发的目标端口和服务器IP即可！  
